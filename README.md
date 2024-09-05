@@ -108,17 +108,7 @@ command
 ```
 $ streamlit run app.py 
 ```
-## Images
 
-<p align="center">
-  <img src="Readme_images/1.PNG">
-</p>
-<p align="center">Upload Images</p>
-
-<p align="center">
-  <img src="Readme_images/2.PNG">
-</p>
-<p align="center">Results</p>
 
 ## :clap: And it's done!
 
